@@ -2,7 +2,9 @@
     "root": true,
     "parser": "@typescript-eslint/parser",
     "plugins": ["@typescript-eslint"],
-    "env": {"node": true},
+    "env": {
+        "node": true
+    },
     "extends":[
         "eslint:recommended",
         "plugin:@typescript-eslint/recommended",
@@ -24,12 +26,11 @@
         "no-unused-vars": "error",
 
         "@typescript-eslint/consistent-type-imports": "off",
-        "@typescript-eslint/naming-convention": "off",
+        "@typescript-eslint/naming-convention": "off"
     },
     "overrides": [{
         "files": "*.json",
         "parser": "jsonc-eslint-parser",
         "rules": {}
     }]
-
 }
