@@ -1,0 +1,35 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["@typescript-eslint"],
+    "env": {"node": true},
+    "extends":[
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
+        "prettier"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 2023,
+        "sourceType": "module"
+    },
+    "rules": {
+        "typescript-eslint/no-unused-vars": [
+            "error",
+            {
+                "argsIgnorePattern": "_"
+            }
+        ],
+        "@typescript-eslint/array-type": "error",
+        "no-empty-function": "error",
+        "no-unused-vars": "error",
+
+        "@typescript-eslint/consistent-type-imports": "off",
+        "@typescript-eslint/naming-convention": "off",
+    },
+    "overrides": [{
+        "files": "*.json",
+        "parser": "jsonc-eslint-parser",
+        "rules": {}
+    }]
+
+}
