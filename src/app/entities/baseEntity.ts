@@ -1,3 +1,3 @@
 export interface BaseEntity {
-    entityId: number
+	entityId: number;
 }

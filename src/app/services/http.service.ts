@@ -13,5 +13,5 @@ export abstract class HttpService {
 
 	constructor(httpClient: HttpClient) {
 		this.httpClient = httpClient;
-	}    
+	}
 }
