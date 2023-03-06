@@ -1,0 +1,395 @@
+[
+	{
+		"entityId": 1,
+		"fighterName": "Aether",
+		"fighterDesciption": "God of light",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 2,
+		"fighterName": "Aion",
+		"fighterDesciption": "God of eternity",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 3,
+		"fighterName": "Alastor",
+		"fighterDesciption": "God of family feuds",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 4,
+		"fighterName": "Apollo",
+		"fighterDesciption": "God of light, healing and prophecy, and music and poetry",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 5,
+		"fighterName": "Ares",
+		"fighterDesciption": "God of war",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 6,
+		"fighterName": "Asclepius",
+		"fighterDesciption": "God of medicine",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 7,
+		"fighterName": "Achilles",
+		"fighterDesciption": "Greatest warrior of the Trojan War",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 8,
+		"fighterName": "Aeolus",
+		"fighterDesciption": "King of the mythical island of Aiolia (Aeolia) and divine keeper of the winds",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "Heal",
+                "skillDescription": "Heal"
+            },
+            {
+                "skillName": "Fire",
+                "skillDescription": "Fire"
+            },
+            {
+                "skillName": "Water",
+                "skillDescription": "Water"
+            },
+            {
+                "skillName": "Wind",
+                "skillDescription": "Wind"
+            },
+            {
+                "skillName": "Nature",
+                "skillDescription": "Nature"
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	},
+	{
+		"entityId": 0,
+		"fighterName": "",
+		"fighterDesciption": "",
+        "fighterLevel": 1,
+        "fighterRarity": 50,
+		"fighterStats": {
+			"strenght": 1,
+			"magicPower": 1,
+			"hardness": 1,
+			"magicShield": 1,
+			"speed": 1,
+			"intelligence": 1,
+            "vitality": 1
+		},
+        "fighterSkills": [
+            {
+                "skillName": "",
+                "skillDescription": ""
+            },
+            {
+                "skillName": "",
+                "skillDescription": ""
+            }
+        ],
+        "fighterAffinities": {
+            "fireAffinity": 2,
+            "iceAffinity": 2,
+            "waterAffinity": 2,
+            "windAffinity": 2,
+            "natureAffinity": 2
+        }
+	}
+]
