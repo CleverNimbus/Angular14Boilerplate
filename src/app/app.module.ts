@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { StoreModule } from '@ngrx/store';
 import { HTTP_INTERCEPTORS } from '@angular/common/http';
-import { HttpErrorInterceptor } from './core/interceptors/http.error.interceptor';
+import { HttpErrorInterceptor } from './interceptors/http.error.interceptor';
 import { AppUnauthorizedComponent } from './components/app-unauthorized/app-unauthorized.component';
 
 @NgModule({
