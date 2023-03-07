@@ -3,36 +3,72 @@
 		"entityId": 1,
 		"skillName": "Heal",
 		"skillDescription": "Heal",
-		"skillAffinity": 1
+		"skillAffinity": {
+			"fireAffinity": 1,
+			"iceAffinity": 1,
+			"waterAffinity": 1,
+			"windAffinity": 1,
+			"natureAffinity": 1
+		}
 	},
 	{
 		"entityId": 2,
 		"skillName": "Fire",
 		"skillDescription": "Fire",
-		"skillAffinity": 1
+		"skillAffinity": {
+			"fireAffinity": 1,
+			"iceAffinity": 1,
+			"waterAffinity": 1,
+			"windAffinity": 1,
+			"natureAffinity": 1
+		}
 	},
 	{
 		"entityId": 3,
 		"skillName": "Water",
 		"skillDescription": "Water",
-		"skillAffinity": 1
+		"skillAffinity": {
+			"fireAffinity": 1,
+			"iceAffinity": 1,
+			"waterAffinity": 1,
+			"windAffinity": 1,
+			"natureAffinity": 1
+		}
 	},
 	{
 		"entityId": 4,
 		"skillName": "Wind",
 		"skillDescription": "Wind",
-		"skillAffinity": 1
+		"skillAffinity": {
+			"fireAffinity": 1,
+			"iceAffinity": 1,
+			"waterAffinity": 1,
+			"windAffinity": 1,
+			"natureAffinity": 1
+		}
 	},
 	{
 		"entityId": 5,
 		"skillName": "Nature",
 		"skillDescription": "Nature",
-		"skillAffinity": 1
+		"skillAffinity": {
+			"fireAffinity": 1,
+			"iceAffinity": 1,
+			"waterAffinity": 1,
+			"windAffinity": 1,
+			"natureAffinity": 1
+		}
 	},
 	{
 		"entityId": 0,
 		"skillName": "",
 		"skillDescription": "",
-		"skillAffinity": 1
+		"skillAffinity": {
+			"fireAffinity": 1,
+			"iceAffinity": 1,
+			"waterAffinity": 1,
+			"windAffinity": 1,
+			"natureAffinity": 1
+		}
 	}
 ]

@@ -3,6 +3,5 @@ export enum AffinityType {
 	Normal = 2,
 	Resist = 3,
 	Inmune = 4,
-	Drain = 5,
-	Repel = 6,
+	Unstopable = 5,
 }
