@@ -47,7 +47,13 @@
 									"maximumError": "16kb"
 								}
 							],
-							"outputHashing": "all"
+							"outputHashing": "all",
+							"optimization": true,
+              				"sourceMap": false,
+              				"namedChunks": false,
+              				"extractLicenses": true,
+              				"vendorChunk": false,
+              				"buildOptimizer": true
 						},
 						"staging": {
 							"fileReplacements": [
@@ -68,7 +74,13 @@
 									"maximumError": "16kb"
 								}
 							],
-							"outputHashing": "all"
+							"outputHashing": "all",
+							"optimization": true,
+              				"sourceMap": false,
+              				"namedChunks": false,
+              				"extractLicenses": true,
+              				"vendorChunk": false,
+              				"buildOptimizer": true
 						},
 						"development": {
 							"buildOptimizer": false,
