@@ -1,0 +1,5 @@
+Update Angular
+https://update.angular.io/?v=13.0-15.0
+
+Update all packages
+https://medium.com/subjective-developer/update-all-node-packages-to-latest-aa128396b92b
